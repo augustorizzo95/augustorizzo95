@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augustorizzo95
-- 👀 I’m interested in learning to code in Python.
-- 🌱 I’m currently learning Pyhton.
+- 👀 I’m interested in working with data and software development.
+- 🌱 I’m currently an undergraduate student in systems analysis and development.
 - 💞️ I’m looking to collaborate on any kind of beginner projects.
 - 📫 How to reach me: augustojubei@gmail.com
 - 😄 Pronouns: he/him
